@@ -53,6 +53,12 @@
   <a href="https://github.com/andreluizboanergers/monitor-imap-chilkat-node18-win-x64" style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=monitor-imap-chilkat-node18-win-x64&theme=dark" alt="Repo6" width="200" />
   </a>
+  <a href="https://github.com/andreluizboanergers/CRUD-api-postagems" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=CRUD-api-postagems&theme=dark" alt="Repo6" width="200" />
+  </a>
+  <a href="https://github.com/andreluizboanergers/chave-unica-acesso-usuario" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=chave-unica-acesso-usuario&theme=dark" alt="Repo6" width="200" />
+  </a>
 </div>
 
 ---
