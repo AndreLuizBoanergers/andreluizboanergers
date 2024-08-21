@@ -1,4 +1,4 @@
-<div align="center" style="background-color:black; padding:20px;">
+<div align="center" style="background-color:black; padding:20px; color:white;">
 
 # 🖤 Bem-vindo ao meu Perfil!
 
@@ -20,13 +20,31 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-<div align="center">
+
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreluizboanergers&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizboanergers&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
 </div>
+
+---
+
+## 📂 Repositórios
+
+<div align="center">
+  <a href="https://github.com/seu_usuario/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo1&theme=dark" alt="Repo1" width="200" />
+  </a>
+  <a href="https://github.com/seu_usuario/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo2&theme=dark" alt="Repo2" width="200" />
+  </a>
+  <a href="https://github.com/seu_usuario/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo3&theme=dark" alt="Repo3" width="200" />
+  </a>
+  <!-- Adicione mais repositórios conforme necessário -->
+</div>
+
 ---
 
 ## 📫 Entre em Contato
