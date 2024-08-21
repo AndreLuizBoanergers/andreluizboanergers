@@ -24,8 +24,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreluizboanergersshow_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizboanergers&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
 </div>
 
 ---
@@ -34,13 +34,22 @@
 
 <div align="center">
   <a href="https://github.com/seu_usuario/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo1&theme=dark" alt="Repo1" width="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo1&theme=dark" alt="Repo1" width="200" />
   </a>
   <a href="https://github.com/seu_usuario/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo2&theme=dark" alt="Repo2" width="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo2&theme=dark" alt="Repo2" width="200" />
   </a>
   <a href="https://github.com/seu_usuario/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu_usuario&repo=repo3&theme=dark" alt="Repo3" width="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo3" width="200" />
+  </a>
+  <a href="https://github.com/seu_usuario/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo4" width="200" />
+  </a>
+  <a href="https://github.com/seu_usuario/repo5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo5" width="200" />
+  </a>
+  <a href="https://github.com/seu_usuario/repo6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo6" width="200" />
   </a>
   <!-- Adicione mais repositórios conforme necessário -->
 </div>
