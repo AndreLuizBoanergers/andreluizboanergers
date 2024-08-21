@@ -20,13 +20,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
+<div align="center">
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreluizboanergers&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizboanergers&layout=compact&theme=dark&hide_border=true)
-
+</div>
 ---
 
 ## 📫 Entre em Contato
