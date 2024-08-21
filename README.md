@@ -23,9 +23,9 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreluizboanergers&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizboanergers&layout=compact&theme=dark&hide_border=true)
 
 ---
 
