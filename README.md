@@ -24,8 +24,10 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreluizboanergers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizboanergers&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreluizboanergers&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" />
+  
 </div>
 
 ---
