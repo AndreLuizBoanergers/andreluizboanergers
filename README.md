@@ -33,25 +33,24 @@
 ## 📂 Repositórios
 
 <div align="center">
-  <a href="https://github.com/seu_usuario/repo1">
+  <a href="https://github.com/andreluizboanergers/repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo1&theme=dark" alt="Repo1" width="200" />
   </a>
-  <a href="https://github.com/seu_usuario/repo2">
+  <a href="https://github.com/andreluizboanergers/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo2&theme=dark" alt="Repo2" width="200" />
   </a>
-  <a href="https://github.com/seu_usuario/repo3">
+  <a href="https://github.com/andreluizboanergers/repo3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo3" width="200" />
   </a>
-  <a href="https://github.com/seu_usuario/repo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo4" width="200" />
+  <a href="https://github.com/andreluizboanergers/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo4&theme=dark" alt="Repo4" width="200" />
   </a>
-  <a href="https://github.com/seu_usuario/repo5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo5" width="200" />
+  <a href="https://github.com/andreluizboanergers/repo5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo5&theme=dark" alt="Repo5" width="200" />
   </a>
-  <a href="https://github.com/seu_usuario/repo6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo3&theme=dark" alt="Repo6" width="200" />
+  <a href="https://github.com/andreluizboanergers/repo6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreluizboanergers&repo=repo6&theme=dark" alt="Repo6" width="200" />
   </a>
-  <!-- Adicione mais repositórios conforme necessário -->
 </div>
 
 ---
@@ -69,6 +68,6 @@
 
 <div align="center" style="background-color:black; padding:20px;">
 
-![Snake animation](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andreluizboanergers/andreluizboanergers/blob/output/github-contribution-grid-snake.svg)
 
 </div>
